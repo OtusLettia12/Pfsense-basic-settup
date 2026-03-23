@@ -16,7 +16,7 @@ Tài liệu này hướng dẫn:
 ---
 
 ## 3. Sơ đồ lab
-![Topology](Image/topology.png)
+![Topology](Image/Picture1.png)
 
 ---
 
@@ -28,7 +28,7 @@ Tài liệu này hướng dẫn:
 
 ### 4.2 DHCP
 - Disable DHCP trên VMware (Host-Only)
-
+![setup](Image/Picture2.png)
 ---
 
 ## 5. Cấu hình pfSense VM
@@ -41,9 +41,11 @@ Tài liệu này hướng dẫn:
 ---
 
 ## 6. Cấu hình CLI
+![setup](Image/Picture3.png)
 
 ### WAN
 Option 2 → chọn 1 (WAN)
+![setup Wan](Image/Picture4.png)
 
 ### LAN
 Option 2 → chọn 2 (LAN)
@@ -79,23 +81,10 @@ Thông số:
 - LAN: 192.168.48.0/24
 - DHCP OK
 - Truy cập GUI OK
-
+  
 ---
 
-## 10. Hình ảnh minh hoạ
-
-### Cấu hình mạng
-![VMware](Image/vmware.png)
-
-### pfSense CLI
-![CLI](Image/cli.png)
-
-### Web GUI
-![GUI](Image/gui.png)
-
----
-
-## 11. Lưu ý
+## ! Lưu ý
 - Không bật DHCP trên VMware
 - Gán đúng adapter WAN/LAN
 - Kiểm tra kết nối
