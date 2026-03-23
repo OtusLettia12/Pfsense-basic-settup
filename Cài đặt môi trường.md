@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Hướng dẫn cài đặt và cấu hình pfSense (Lab cơ bản)
 
 ## 1. Mục đích
@@ -100,3 +101,6 @@ Thông số:
 - Kiểm tra kết nối
 
 ---
+=======
+# Pfsense-basic-settup
+>>>>>>> 7f9a88747e849f38d2648faffb21bcdec9de4733
