@@ -43,9 +43,13 @@ Tài liệu này hướng dẫn:
 ## 6. Cấu hình CLI
 ![setup](Image/Picture3.png)
 
+---
+
 ### WAN
 Option 2 → chọn 1 (WAN)
 ![setup Wan](Image/Picture4.png)
+
+---
 
 ### LAN
 Option 2 → chọn 2 (LAN)
@@ -70,19 +74,14 @@ Thông số:
 
 - Step 1–2: Next
 - Step 3: Asia/Ho_Chi_Minh
-- Step 4: DHCP
-- Step 5: 192.168.48.1/24
-- Step 6: đổi pass (tuỳ chọn)
+- Step 4: Configuration Type: DHCP
+- Step 5: LAN IP Address: 192.168.48.1 - Subnet Mask: 24
+- Step 6: có thể đổi pass login GUI hoặc có thể next để sử dụng thông tin mặc định 
+- Các Step khác nhấn next
+
 
 ---
 
-## 9. Kết quả
-- pfSense hoạt động
-- LAN: 192.168.48.0/24
-- DHCP OK
-- Truy cập GUI OK
-  
----
 
 ## ! Lưu ý
 - Không bật DHCP trên VMware
