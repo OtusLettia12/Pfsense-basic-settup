@@ -3,7 +3,7 @@
 ## 1. Mục đích
 - Cho phép truy cập Web UI của pfSense từ mạng WAN
 - Hiểu cách hoạt động của Firewall Rule
-
+ 
 
 ![Firewall GUI](Image/Picture6.png)
 
