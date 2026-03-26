@@ -54,13 +54,13 @@ Tạo 2 limiter:
 
 * **Name**: `WIN10_Download`
 * **Bandwidth**: cấu hình theo nhu cầu (ví dụ `3 Mbps` hoặc `5 Mbps`)
-- ![LimitPicture1](Images/LimitPicture1.png)
+- ![LimitPicture1](Image/LimitPicture1.png)
 
 #### 📤 Upload Limiter
 
 * **Name**: `WIN10_Upload`
 * **Bandwidth**: cấu hình theo nhu cầu
-- ![LimitPicture2](Images/LimitPicture2.png)
+![LimitPicture2](Image/LimitPicture2.png)
 
 ---
 
@@ -93,7 +93,7 @@ Tạo rule mới với các thông số:
 ```text
 Limit bandwidth Win10
 ```
-- ![LimitPicture3](Images/LimitPicture3.png)
+- ![LimitPicture3](Image/LimitPicture3.png)
 ---
 
 
@@ -106,7 +106,7 @@ Trong phần **Advanced Options** của rule:
 * **In pipe** → `WIN10_Upload`
 * **Out pipe** → `WIN10_Download`
 
-- ![LimitPicture4](Images/LimitPicture4.png)
+- ![LimitPicture4](Image/LimitPicture4.png)
 
 > 📌 Giải thích:
 >
@@ -122,7 +122,7 @@ Sau khi cấu hình xong, tiến hành đo tốc độ mạng trên máy Windows
 
 ### 🔹 Trước khi giới hạn băng thông
 
-- ![LimitPicture5](Images/LimitPicture5.png)
+- ![LimitPicture5](Image/LimitPicture5.png)
 
 **Kết quả:**
 
@@ -134,7 +134,7 @@ Sau khi cấu hình xong, tiến hành đo tốc độ mạng trên máy Windows
 
 ### 🔹 Sau khi áp dụng giới hạn
 
- ![LimitPicture6](Images/LimitPicture6.png)
+ ![LimitPicture6](Image/LimitPicture6.png)
 
 **Kết quả:**
 
