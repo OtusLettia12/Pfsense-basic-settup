@@ -54,7 +54,7 @@ Tạo 2 limiter:
 
 * **Name**: `WIN10_Download`
 * **Bandwidth**: cấu hình theo nhu cầu (ví dụ `3 Mbps` hoặc `5 Mbps`)
-- ![LimitPicture1](.Images/LimitPicture1.png)
+- ![LimitPicture1](Images/LimitPicture1.png)
 
 #### 📤 Upload Limiter
 
