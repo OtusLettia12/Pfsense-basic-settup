@@ -13,7 +13,9 @@ Mục đích của repo này:
 
 - **Lab 01**: Cài đặt môi trường pfSense trên VMware
 - **Lab 02**: Cấu hình cơ bản (Firewall Rule)
-- **Lab 03**: NAT Port Forward *(sẽ cập nhật)*
+- **Lab 03**: NAT Port Forward *(quên chưa đăng)*
+- **Lab 04**: Giới hạn băng thông
+- **Lab 05**: Chặn web (*Coming soon*)
 
 
 
