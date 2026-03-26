@@ -36,7 +36,7 @@ Lab này tạo rule để:
 - Destination port range: HTTPS
 - Description: Cho phép truy cập Web UI từ WAN
 
-![Firewall Rule](Image/Picture7.png)
+![Firewall Rule](Image/Picture7.jpg)
 ---
 
 ## 4. Áp dụng
