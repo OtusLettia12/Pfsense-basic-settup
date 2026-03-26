@@ -56,14 +56,3 @@ Lab này tạo rule để:
 
 ---
 
-## 7. Kết quả
-- Truy cập được Web UI từ WAN
-- Rule hoạt động đúng
-
----
-
-## 8. Hình ảnh
-
-![Firewall Rule](Image/firewall-rule.png)
-
----
