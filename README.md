@@ -4,6 +4,8 @@
 
 Đây là repository tài liệu thực hành các cấu hình cơ bản trên **pfSense** trong môi trường máy ảo.
 
+![Topology](Image/Picture1.png)
+
 Mục đích của repo này:
 - Ghi lại quá trình học và thực hành pfSense
 - Làm tài liệu tham khảo khi cấu hình firewall
