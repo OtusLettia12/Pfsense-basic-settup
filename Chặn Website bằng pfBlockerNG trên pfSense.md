@@ -219,6 +219,7 @@ Firewall > pfBlockerNG > Update > Run
 
 
 ![Trước khi chặn website](Image/lab06-8.png)
+
 ![Trước khi chặn website](Image/lab06-9.png)
 
 
@@ -234,6 +235,7 @@ Firewall > pfBlockerNG > Update > Run
 
 
 ![Sau khi chặn website](Image/lab06-11.png)
+
 ![Sau khi chặn website](Image/lab06-12.png)
 
 
@@ -253,6 +255,7 @@ Firewall > pfBlockerNG > Reports
 
 
 ![Reports pfBlockerNG](Image/lab06-13.png)
+
 
 
 Tại đây có thể xem:
