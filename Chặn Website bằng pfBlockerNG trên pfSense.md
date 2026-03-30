@@ -220,7 +220,6 @@ Firewall > pfBlockerNG > Update > Run
 
 ![Trước khi chặn1 website](Image/lab06-8.png)
 
-![Trước khi chặn2 website](Image/lab06-9.png)
 
 
 ---
