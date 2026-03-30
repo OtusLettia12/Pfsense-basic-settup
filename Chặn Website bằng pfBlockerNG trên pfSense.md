@@ -218,8 +218,7 @@ Firewall > pfBlockerNG > Update > Run
 📷 **Ảnh:**
 
 
-![Trước khi chặn1 website](Image/lab06-8.png)
-
+![Blockwebsite](Image/lab06-7.png)
 
 
 ---
