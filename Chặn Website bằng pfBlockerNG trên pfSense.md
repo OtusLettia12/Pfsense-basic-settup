@@ -25,6 +25,7 @@ Và đặc biệt là chặn web của trường Bách Khoa
 <em><sub>Đừng vào Hust!</sub></em>
 
 
+> [!TIP]
 > **Không lan man nữa, vào việc!** 😎
 
 ---
@@ -90,6 +91,7 @@ pfBlockerNG-devel
 
 📷 **Ảnh:**
 
+
 ![Cài đặt pfBlockerNG-devel](Image/Lab06-3.png)
 
 
@@ -104,10 +106,11 @@ Sau khi tải xong, chúng ta sẽ lần lượt setup.
 
 📷 **Ảnh:**
 
-```md
+
 ![Setup pfBlockerNG](Image/Lab06-4.png)
+
 ![Setup pfBlockerNG](Image/Lab06-5.png)
-```
+
 
 ---
 
@@ -115,9 +118,9 @@ Sau khi tải xong, chúng ta sẽ lần lượt setup.
 
 Sau khi setup xong, sẽ có vài thông tin quan trọng cần để ý.
 
-```md
+
 ![Setup pfBlockerNG](Image/Lab06-6.png)
-```
+
 Ở **pfBlockerNG** này sẽ có vài mục cơ bản như sau:
 
 ### ⚙️ General
@@ -173,9 +176,9 @@ List danh sách mọi người sẽ tự thêm nhé!
 
 <em><sub>Đừng vào Hust!</sub></em>
 
-```md
+
 ![Setup pfBlockerNG](Image/lab06-listblock.png)
-```
+
 
 > [!TIP]
 > Bạn có thể thêm các domain khác như:
@@ -199,9 +202,9 @@ Firewall > pfBlockerNG > Update > Run
 
 📷 **Ảnh:**
 
-```md
+
 ![Run Update pfBlockerNG](Image/lab06-7.png)
-```
+
 
 > [!WARNING]
 > Nếu **không bấm Run / Update**, danh sách chặn sẽ **chưa được áp dụng**.
@@ -214,10 +217,10 @@ Firewall > pfBlockerNG > Update > Run
 
 📷 **Ảnh:**
 
-```md
+
 ![Trước khi chặn website](Image/lab06-8.png)
 ![Trước khi chặn website](Image/lab06-9.png)
-```
+
 
 ---
 
@@ -229,10 +232,10 @@ Firewall > pfBlockerNG > Update > Run
 
 📷 **Ảnh:**
 
-```md
+
 ![Sau khi chặn website](Image/lab06-11.png)
 ![Sau khi chặn website](Image/lab06-12.png)
-```
+
 
 ---
 
@@ -248,9 +251,9 @@ Firewall > pfBlockerNG > Reports
 
 📷 **Ảnh:**
 
-```md
+
 ![Reports pfBlockerNG](Image/lab06-13.png)
-```
+
 
 Tại đây có thể xem:
 
