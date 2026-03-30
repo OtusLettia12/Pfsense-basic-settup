@@ -25,7 +25,6 @@ Và đặc biệt là chặn web của trường Bách Khoa
 <em><sub>Đừng vào Hust!</sub></em>
 
 
-> [!TIP]
 > **Không lan man nữa, vào việc!** 😎
 
 ---
@@ -91,9 +90,8 @@ pfBlockerNG-devel
 
 📷 **Ảnh:**
 
-```md
 ![Cài đặt pfBlockerNG-devel](Image/Lab06-3.png)
-```
+
 
 > [!IMPORTANT]
 > Hãy đảm bảo pfSense của bạn **đã có Internet** trước khi cài package.
