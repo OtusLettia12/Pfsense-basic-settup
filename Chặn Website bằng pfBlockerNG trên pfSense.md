@@ -218,7 +218,11 @@ Firewall > pfBlockerNG > Update > Run
 📷 **Ảnh:**
 
 
-![Blockwebsite](Image/lab06-7.png)
+![Setup pfBlockerNG](Image/Lab06-8.png)
+
+![Setup pfBlockerNG](Image/Lab06-9.png)
+
+
 
 
 ---
@@ -232,9 +236,9 @@ Firewall > pfBlockerNG > Update > Run
 📷 **Ảnh:**
 
 
-![Sau khi chặn website](Image/lab06-11.png)
+![Setup pfBlockerNG](Image/Lab06-11.png)
 
-![Sau khi chặn website](Image/lab06-12.png)
+![Setup pfBlockerNG](Image/Lab06-12.png)
 
 
 ---
@@ -252,7 +256,7 @@ Firewall > pfBlockerNG > Reports
 📷 **Ảnh:**
 
 
-![Reports pfBlockerNG](Image/lab06-13.png)
+![Setup pfBlockerNG](Image/Lab06-13.png)
 
 
 
