@@ -203,7 +203,7 @@ Firewall > pfBlockerNG > Update > Run
 📷 **Ảnh:**
 
 
-![Run Update pfBlockerNG](Image/lab06-5.png)
+![Setup pfBlockerNG](Image/Lab06-5.png)
 
 
 > [!WARNING]
