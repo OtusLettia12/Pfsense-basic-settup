@@ -18,7 +18,7 @@ Mục đích của repo này:
 - **Lab 03**: NAT Port Forward
 - **Lab 04**: Giới hạn băng thông
 - **Lab 05**: Chặn web
-- **Lab 06**: THiết lập Rules phân quyên (*Coming soon*)
+- **Lab 06**: Thiết lập Rules phân quyền (*Coming soon*)
 
 
 
